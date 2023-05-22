@@ -39,7 +39,7 @@ To run this application, you need to have Elixir installed on your machine. You 
    mix phx.server
    ```
 
-5. Send request
+5. Test request
    ```shell
    curl --location 'http://localhost:4000/api/github/search' \
     --header 'Content-Type: application/json' \
