@@ -19,12 +19,12 @@ To run this application, you need to have Elixir installed on your machine. You 
 
    ```shell
    git clone https://github.com/your-username/swap-challenge-github.git
-  ```
+   ```
 
-2. Navigate to the project's directory::
+2. Navigate to the project's directory:
 
    ```shell
-  cd swap-challenge-github
+   cd swap-challenge-github
    ```
 
 3. Install dependencies:
